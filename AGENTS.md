@@ -26,6 +26,12 @@ For a prompt change, manually walk through a representative input against the re
 
 Recent commits use concise Conventional Commit prefixes, for example `feat: add actions` and `refactor: prompts organisation`. Use an imperative summary and keep each commit focused on one concern. In pull requests, explain the purpose and behavior change, link any relevant issue, and include the manual verification performed. Include before-and-after examples when they clarify a prompt change.
 
+## Shared workspace rules
+
+Read and follow the shared workspace policy for every project, including projects with real users.
+
+@/home/hermes/repos/prompts-lib/AGENTS_WORKSPACE.md
+
 ## Shared building rules
 
 Read the shared file below before changing this project. Its development rules apply only if the project has no real users yet; confirm that status before applying them. Existing project-specific security, data-preservation, and release requirements still apply.
